@@ -1,6 +1,7 @@
 # paginate
 
-- [Setup](##setup)
+- [Setup](#setup)
+  - [Composer](#composer)
 
 ## setup
 
