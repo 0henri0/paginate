@@ -40,7 +40,7 @@ Chạy lệnh:
 
 ## sử dụng
 
-### Model:
+### Model
 ````
 <?php
 
@@ -73,8 +73,8 @@ thêm:
 +   use Sortable;
  +  sortable[' ']; : chứa các column trong DB cần sort
 
-### Controller:
-```` 
+### Controller
+````
 <?php
 
 namespace App\Http\Controllers;
