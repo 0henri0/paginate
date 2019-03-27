@@ -2,7 +2,7 @@
 
 - [Setup](#setup)
   - [Composer](#composer)
-  - [Publish configuration](Publish-configuration)
+  - [Publish configuration](#Publish-configuration)
 - [Sử dụng](#Sử-dụng)
 
 ## setup
