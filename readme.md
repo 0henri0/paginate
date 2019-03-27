@@ -4,7 +4,9 @@
   - [Composer](#composer)
   - [Publish configuration](#Publish-configuration)
 - [Sử dụng](#Sử-dụng)
-
+  - [Model](#Model)
+  - [Controller](#Controller)
+  - [view blade](#Blade-Extension)
 ## setup
 
 ### composer
@@ -38,7 +40,7 @@ Chạy lệnh:
 
 ## sử dụng
 
-### trong Model:
+### Model:
 ````
 <?php
 
@@ -71,7 +73,7 @@ thêm:
 +   use Sortable;
  +  sortable[' ']; : chứa các column trong DB cần sort
 
-### trong Controller :
+### Controller :
 ```` 
 <?php
 
