@@ -38,6 +38,8 @@ Chạy lệnh:
 
 => cài đặt, tùy chỉnh nằm file trong: `` config/columnsortable ``
 
+---
+
 ## sử dụng
 
 ### Model
@@ -74,7 +76,7 @@ thêm:
  +  sortable[' ']; : chứa các column trong DB cần sort
 
 ### Controller
-````
+```` 
 <?php
 
 namespace App\Http\Controllers;
@@ -142,4 +144,6 @@ Trong đó :
     ````
 + **{!! $categories->appends(\Request::except('page'))->render() !!}** : các page
 ![](https://i.ibb.co/58HjLs3/Capture.png)
+---
 
+## Config
