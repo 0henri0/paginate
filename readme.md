@@ -73,7 +73,7 @@ thêm:
 +   use Sortable;
  +  sortable[' ']; : chứa các column trong DB cần sort
 
-### Controller :
+### Controller:
 ```` 
 <?php
 
