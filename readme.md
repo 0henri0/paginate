@@ -1,6 +1,6 @@
 # paginate
 
-- [Setup]($#setup)
+- [Setup](##setup)
 
 ## setup
 
